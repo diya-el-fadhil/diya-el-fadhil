@@ -32,7 +32,15 @@ I'm excited to learn and contribute while gaining hands-on experience in softwar
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 
+</div><br/>
 
+ <hr/>
+
+<h3 align="center">Languages-Frameworks-Tools</h3>
+
+<br/>
+
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,figma,git,python,javascript,java,mysql,c" />
 </div>
-
 
