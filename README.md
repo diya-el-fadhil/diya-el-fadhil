@@ -28,9 +28,10 @@ I'm excited to learn and contribute while gaining hands-on experience in softwar
   <a href="https://www.instagram.com/_.d_e_f._?igsh=MW84aHkweGxraThwdw==" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-833ab4?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://wa.me/+91 9497797015" target="_blank">
+  <a href="https://wa.me/919497797015" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
+
 
 </div>
 
