@@ -1,8 +1,8 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=diya-el-fadhil.diya-el-fadhil" />
+[![](https://visitcount.itsvg.in/api?id=diya-el-fadhil&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<h1 align="center">
+<h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+Peeps;+I'm+Diya+El+Fadhil;I'm+From+Kerala,+India" />
-</h1>
+</h3>
 
 <h3 align="center">Passionate Software Developer from India 🇮🇳</h3>
 
@@ -43,4 +43,15 @@ I'm excited to learn and contribute while gaining hands-on experience in softwar
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github,figma,git,python,javascript,java,mysql,c" />
 </div>
+
+<br/><br/>
+
+<div align="center"> 
+
+![](https://github-readme-stats.vercel.app/api?username=diya-el-fadhil&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=diya-el-fadhil&theme=dark&hide_border=false)
+
+<br/><br/>
+
+<div/>
 
