@@ -51,4 +51,12 @@ I'm excited to learn and contribute while gaining hands-on experience in softwar
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=diya-el-fadhil&theme=dark" alt="diya-el-fadhil" height="150">  
 </div>
 
+<br/><br/>
 
+<div align="center">
+  <h3> My Contributions </h3>
+
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/diya-el-fadhil/diya-el-fadhil/output/github-contribution-grid-snake.svg" />
+  
+  <br/>
+</div>
