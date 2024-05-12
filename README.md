@@ -46,13 +46,10 @@ I'm excited to learn and contribute while gaining hands-on experience in softwar
 
 <br/><br/>
 
-<div align="center"> 
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=diya-el-fadhil&show_icons=true&locale=en&theme=dark" alt="diya-el-fadhil" style="width: 45%; height: 300px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=diya-el-fadhil&theme=dark" alt="diya-el-fadhil" style="width: 45%; height: 300px;">  
+</div>
 
-![](https://github-readme-stats.vercel.app/api?username=diya-el-fadhil&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=diya-el-fadhil&theme=dark&hide_border=false)
-
-<br/><br/>
-
-<div/>
 
 
