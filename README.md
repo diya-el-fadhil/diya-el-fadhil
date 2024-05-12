@@ -47,9 +47,8 @@ I'm excited to learn and contribute while gaining hands-on experience in softwar
 <br/><br/>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=diya-el-fadhil&show_icons=true&locale=en&theme=dark" alt="diya-el-fadhil" style="width: 45%; height: 300px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=diya-el-fadhil&theme=dark" alt="diya-el-fadhil" style="width: 45%; height: 300px;">  
+    <img src="https://github-readme-stats.vercel.app/api?username=diya-el-fadhil&show_icons=true&locale=en&theme=dark" alt="diya-el-fadhil" height="150">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=diya-el-fadhil&theme=dark" alt="diya-el-fadhil" height="150">  
 </div>
-
 
 
