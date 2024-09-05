@@ -64,7 +64,7 @@ I'm excited to learn and contribute while gaining hands-on experience in softwar
 <div align="center">
   <h3> MY CONTRIBUTIONS </h3>
 
-  ![](https://raw.githubusercontent.com/diya-el-fadhil/diya-el-fadhil/output/github-contribution-grid-snake.svg)
+  ![](https://raw.githubusercontent.com/diya-el-fadhil/diya-el-fadhil/output/github-contribution-grid-snake-dark.svg)
   
   <br/>
 </div>
