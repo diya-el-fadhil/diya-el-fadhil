@@ -68,3 +68,6 @@ I'm excited to learn and contribute while gaining hands-on experience in softwar
   
 
 </div>
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=diya-el-fadhil&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
