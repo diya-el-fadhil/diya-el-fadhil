@@ -63,14 +63,8 @@ I'm excited to learn and contribute while gaining hands-on experience in softwar
 
 <div align="center">
   <h3> MY CONTRIBUTIONS </h3>
-    <picture>
-    <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/diya-el-fadhil/diya-el-fadhil/output/github-contribution-grid-snake-dark.svg"
-  />
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/diya-el-fadhil/diya-el-fadhil/output/github-contribution-grid-snake-dark.svg" />
 
-  </picture>
+  ![snake gif](https://github.com/diya-el-fadhil/diya-el-fadhil/blob/output/github-contribution-grid-snake.svg)
   
-  <br/>
+
 </div>
