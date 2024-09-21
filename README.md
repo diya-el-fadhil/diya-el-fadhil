@@ -1,5 +1,5 @@
 [![](https://visitcount.itsvg.in/api?id=diya-el-fadhil&icon=0&color=0)](https://visitcount.itsvg.in)
-
+![github profile](https://github.com/user-attachments/assets/d49834c9-1e42-4c32-99c4-f6687162fa29)
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+Developers;+I'm+Diya+El+Fadhil;I'm+From+Kerala,+India" />
 </h3>
