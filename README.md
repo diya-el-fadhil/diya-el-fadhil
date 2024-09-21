@@ -1,5 +1,5 @@
 [![](https://visitcount.itsvg.in/api?id=diya-el-fadhil&icon=0&color=0)](https://visitcount.itsvg.in)
-![github profile](https://github.com/user-attachments/assets/d49834c9-1e42-4c32-99c4-f6687162fa29)
+![Github profile tr](https://github.com/user-attachments/assets/290506dc-a4a2-484f-9fc7-408f6986e2bc)
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+Developers;+I'm+Diya+El+Fadhil;I'm+From+Kerala,+India" />
 </h3>
@@ -66,6 +66,6 @@ I'm excited to learn and contribute while gaining hands-on experience in softwar
 
   ![snake gif](https://github.com/diya-el-fadhil/diya-el-fadhil/blob/output/github-contribution-grid-snake-dark.svg)
   
-
 </div>
 
+![github troll](https://github.com/user-attachments/assets/a293a433-f07a-4daf-95c0-7b7192e12f4b)
